@@ -1,0 +1,11 @@
+{
+    "mime_type":"wav",
+    "assess_ref":{
+        "text":"秦时明月汉时关，万里长征人未还",
+        "core_type":"cn.pred.score",
+        "support_recite":true,
+        "recite_rank": 9,
+        "support_wb":true,
+        "score_rank":45
+    }
+}
